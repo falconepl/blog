@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://falconepl.github.io/blog/sitemap.xml 
